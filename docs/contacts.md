@@ -10,4 +10,4 @@
 > 
 > ***Twitch***: [Apachedrag427](https://www.twitch.tv/apachedrag427)
 >
-> ***Fediverse***: [apache](https://fish.apach.dev/@apache)
+> ***Fediverse***: [@apache@fish.apach.dev](https://fish.apach.dev/@apache)
